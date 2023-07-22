@@ -1,0 +1,1 @@
+This folder is just a helper folder for .pth models you make. You can put them in here.

@@ -1,9 +1,10 @@
 # λε-net
 ## A in-progress repo focusing on easy-to-use, portable, image classification/generation PyTorch models.
 **This repository is still currently being built!** Nonetheless, if you would like to navigate the cut-and-pasted-and-it's-so-ugly-it's-sinful codebase, go right ahead. 
-In each folder is:
-- a .pth file (for loading a pre-trained model)
-- a .py file (for training it yourself, editing parameters and such)
+In each folder there:
+- is a .py file (for training it yourself, editing parameters and such)
+- might be a .pth file (for loading a pre-trained model)
+- might be a README.md file (for help with operation)
 
 ## Dependcies
 - *torchvision[^1]* 0.15.2
